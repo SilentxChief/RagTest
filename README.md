@@ -1,0 +1,1 @@
+Test project to test RAG and LLM.  one script reads all the txt files in the data directory and creates a vector db in the db directory. Another script uses the vector db as RAG to query the selected LLM model and gives a response
