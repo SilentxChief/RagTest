@@ -3,7 +3,6 @@ RAG System with Tkinter UI
 
 IMPORTANT USAGE INSTRUCTIONS:
 1. Activate the virtual environment first:
-   $ cd /Users/naga/Code/RAGTEST
    $ source .venv/bin/activate  # On macOS/Linux
    $ .\.venv\Scripts\activate   # On Windows
 
