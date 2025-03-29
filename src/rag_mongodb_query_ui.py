@@ -2,6 +2,7 @@
 RAG System with Tkinter UI
 
 IMPORTANT USAGE INSTRUCTIONS:
+This will not work in vscode. this needs to be run in the terminal outside VSCode
 1. Activate the virtual environment first:
    $ source .venv/bin/activate  # On macOS/Linux
    $ .\.venv\Scripts\activate   # On Windows
